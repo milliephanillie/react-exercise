@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Our new blog!",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "welcome to the party!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "web dev tips!",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "This is testing the json server",
+      "body": "philip testing things",
+      "author": "luigi",
+      "id": 4
+    }
+  ]
+}

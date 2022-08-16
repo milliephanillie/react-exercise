@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  display: block;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  margin: 20px 0;
+}
+
+.content {
+  width: 960px;
+  margin: auto;
+}
